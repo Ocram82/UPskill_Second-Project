@@ -1,0 +1,37 @@
+
+6
+java:S1170"!Make this final field static too.(×Ê
+Y
+java:S1854%">Remove this useless assignment to local variable "actualDate".(ÀÃ§—ùÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(ıÚ¢
+J
+java:S1481:"5Remove this unused "statementRawLine" local variable.(°®Á|
+‡
+java:S1319‰"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÉØš˜
+E
+java:S14818"*Remove this unused "line3" local variable.(ÊÏØüÿÿÿÿ
+J
+java:S1481%"/Remove this unused "actualDate" local variable.(ÀÃ§—ùÿÿÿÿ
+?
+java:S14819"*Remove this unused "line4" local variable.(Ï“Î=
+T
+java:S18548"9Remove this useless assignment to local variable "line3".(ÊÏØüÿÿÿÿ
+Z
+java:S1155“">Use isEmpty() to check whether the collection is empty or not.(Óé¼úÿÿÿÿ
+`
+java:S2095#"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ
+N
+java:S18549"9Remove this useless assignment to local variable "line4".(Ï“Î=
+Y
+java:S1854:"DRemove this useless assignment to local variable "statementRawLine".(°®Á|
+C
+java:S1068"-Remove this unused "startDate" private field.(­Ãé„
+F
+java:S1068"+Remove this unused "endDate" private field.(³ÁÎüşÿÿÿÿ
+[
+java:S22596"EA "NullPointerException" could be thrown; "account" is nullable here.(²ËØä
+Z
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(Óé¼úÿÿÿÿ
+Z
+java:S1155Ô">Use isEmpty() to check whether the collection is empty or not.(Óé¼úÿÿÿÿ
