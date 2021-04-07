@@ -9,3 +9,5 @@ Bsrc/pt/upskill/projeto2/financemanager/PersonalFinanceManager.java,7\3\73f0a8c
 0src/pt/upskill/projeto2/financemanager/Main.java,7\e\7e1da3c3acbfc5443b421705eebd6e1777fb8331
 l
 <src/pt/upskill/projeto2/financemanager/accounts/Account.java,4\e\4e75f3ff1b3d7aa86eb501c1f8b51a431d380e39
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
